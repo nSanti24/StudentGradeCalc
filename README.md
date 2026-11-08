@@ -42,21 +42,21 @@ and many more!
   
 ## Roles
 **Team Leader** 
-&emspSantillan, Danae Franchesca Noelle B.
+*        Santillan, Danae Franchesca Noelle B.
 
 **Programmer(s)**
-&emspArejola, Ferdinand Lorenzo T.\
-&emspSantillan, Danae Franchesca Noelle B.
+*        Arejola, Ferdinand Lorenzo T.\
+        Santillan, Danae Franchesca Noelle B.
 
 **Tester(s)**
-&emspArejola, Ferdinand Lorenzo T.\
-&emspLanwang, James Kyle V.\
-&emspSantillan, Danae Franchesca Noelle B.
+*        Arejola, Ferdinand Lorenzo T.\
+        Lanwang, James Kyle V.\
+        Santillan, Danae Franchesca Noelle B.
 
 **Documentation Writer(s)**
-&emspArejola, Ferdinand Lorenzo T.\
-&emspBoa, Marhel Joaquin H.\
-&emspLanwang, James Kyle V.\
-&emspSantillan, Danae Franchesca Noelle B.
+*        Arejola, Ferdinand Lorenzo T.\
+*        Boa, Marhel Joaquin H.\
+*        Lanwang, James Kyle V.\
+*        Santillan, Danae Franchesca Noelle B.
 
 **Special thanks to Sir Ade for giving us this project!**
