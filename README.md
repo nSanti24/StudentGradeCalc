@@ -41,19 +41,19 @@ and many more!
      - `Option 3 (Back to Main Menu)`: Takes you back to the main menu.
   
 ## Roles
-**Team Leader** 
+**Team Leader**\ 
         Santillan, Danae Franchesca Noelle B.
 
-**Programmer(s)**
+**Programmer(s)**\
         Arejola, Ferdinand Lorenzo T.\
         Santillan, Danae Franchesca Noelle B.
 
-**Tester(s)**
+**Tester(s)**\
         Arejola, Ferdinand Lorenzo T.\
         Lanwang, James Kyle V.\
         Santillan, Danae Franchesca Noelle B.
 
-**Documentation Writer(s)**
+**Documentation Writer(s)**\
         Arejola, Ferdinand Lorenzo T.\
         Boa, Marhel Joaquin H.\
         Lanwang, James Kyle V.\
