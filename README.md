@@ -45,7 +45,7 @@ and many more!
 > Santillan, Danae Franchesca Noelle B.
 
 **Programmer(s)**
-> Arejola, Ferdinand Lorenzo T.
+> Arejola, Ferdinand Lorenzo T.\
 > Santillan, Danae Franchesca Noelle B.
 
 **Tester(s)**
