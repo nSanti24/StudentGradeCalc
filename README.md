@@ -42,19 +42,19 @@ and many more!
   
 ## Roles
 **Team Leader** 
->		Santillan, Danae Franchesca Noelle B.
+*		Santillan, Danae Franchesca Noelle B.
 
 **Programmer(s)**
->		Arejola, Ferdinand Lorenzo T.
-		Santillan, Danae Franchesca Noelle B.
+*		Arejola, Ferdinand Lorenzo T.
+*		Santillan, Danae Franchesca Noelle B.
 
 **Tester(s)**
->		Arejola, Ferdinand Lorenzo T.
-		Lanwang, James Kyle V.
-		Santillan, Danae Franchesca Noelle B.
+*		Arejola, Ferdinand Lorenzo T.
+*		Lanwang, James Kyle V.
+*		Santillan, Danae Franchesca Noelle B.
 
 **Documentation Writer(s)**
->		Arejola, Ferdinand Lorenzo T.
-		Boa, Marhel Joaquin H.
-		Lanwang, James Kyle V.
-		Santillan, Danae Franchesca Noelle B.
+*		Arejola, Ferdinand Lorenzo T.
+*		Boa, Marhel Joaquin H.
+*		Lanwang, James Kyle V.
+*		Santillan, Danae Franchesca Noelle B.
